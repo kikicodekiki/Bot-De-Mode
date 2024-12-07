@@ -1,6 +1,6 @@
 # Bot De Mode 💕💞🌝🌸
 
-![Bot de Mode](https://img.shields.io/badge/Telegram%20Bot-Fashion%20Trends-brightpink)
+![Bot de Mode](https://img.shields.io/badge/Telegram%20Bot-Fashion%20Trends-ffb6c1)
 
 ## 📖 About the Project
 
