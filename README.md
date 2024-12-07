@@ -1,4 +1,4 @@
-# Bot De Mode 💕💞🌝🌸
+# Bot De Mode 💕🌸❤️ 
 
 ![Bot de Mode](https://img.shields.io/badge/Telegram%20Bot-Fashion%20Trends-ffb6c1)
 
