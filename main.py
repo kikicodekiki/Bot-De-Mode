@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot(token = '8111210518:AAGn5_f70BhSmB9xuEPvSQYfFNTPfzi3T64')
+bot = telebot.TeleBot(token = '')
 
 to_send = """, and welcome to my Python project for the Introduction to programming with Python course.
              This bot is designed to simplify how you keep up with fashion trends. It provides real-time insights 
